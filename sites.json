@@ -1,0 +1,146 @@
+{
+  "films": [
+    {
+      "name": "FrenchStream",
+      "url": "https://fs8.lol",
+      "desc": "Series & vieux films",
+      "available": true,
+      "logo": "frenchstream.png"
+    },
+    {
+      "name": "Tosnov",
+      "url": "https://tosnov.com/6ep04q5f/home/tosnov",
+      "desc": "Derniers films sortie box office HD",
+      "available": true,
+      "logo": "tosnov.png"
+    },
+    {
+      "name": "Wiflix",
+      "url": "https://flemmix.one",
+      "desc": "Films sortie cinéma, mauvaise qualité",
+      "available": true,
+      "logo": "wiflix.png"
+    },
+    {
+      "name": "Xalaflix",
+      "url": "https://xalaflix.in",
+      "desc": "Films Netflix, Disney+, Canal+",
+      "available": true,
+      "logo": "xalaflix.png"
+    },
+    {
+      "name": "FlickyStream",
+      "url": "https://flickystream.ru/",
+      "desc": "Stream FULL VO",
+      "available": true,
+      "logo": "flickystream.png"
+    },
+    {
+      "name": "VoirAnime",
+      "url": "https://v6.voiranime.com/",
+      "desc": "Anime, FilmAnime",
+      "available": true,
+      "logo": "voiranime.png"
+    }
+  ],
+  "tv": [
+    {
+      "name": "WiTV",
+      "url": "https://witv.soccer/",
+      "desc": "Chaînes TV payante",
+      "available": false,
+      "logo": "witv.png"
+    },
+    {
+      "name": "RARBGTM",
+      "url": "https://www2.rarbggo.to/",
+      "desc": "TORRENT film, séries, émission",
+      "available": true,
+      "logo": "rarbgtm.png"
+    },
+    {
+      "name": "FTV",
+      "url": "https://fstv.fun/",
+      "desc": "Chaîne TV payante",
+      "available": true,
+      "logo": "frenchtv.png"
+    }
+  ],
+  "watchlists": [
+    {
+      "user": "Karma",
+      "items": [
+        {
+          "title": "The Dark Knight",
+          "url": "https://flickystream.ru/player/movie/155",
+          "poster": "darkknight.jpg",
+          "desc": "VO, HD4K"
+        },
+        {
+          "title": "Game Of Thrones",
+          "url": "https://fs8.lol/s-tv/15108580-game-of-thrones-saison-1-streaming-complet-vf-vostfr.html",
+          "poster": "got.jpg",
+          "desc": "VO, HDLight"
+        }
+      ]
+    },
+    {
+      "user": "Krepe",
+      "items": [
+        {
+          "title": "You",
+          "url": "https://flickystream.ru/tv/78191",
+          "poster": "you.jpg",
+          "desc": "VOST, HD"
+        },
+        {
+          "title": "Dexter ",
+          "url": "https://flickystream.ru/tv/1405",
+          "poster": "dexter.jpg",
+          "desc": "VOST, HDLight"
+        },
+        {
+          "title": "Uma Musume: Cinderella Gray",
+          "url": "https://v6.voiranime.com/anime/uma-musume-cinderella-gray",
+          "poster": "umamusume.jpg",
+          "desc": "VOST, HD"
+        },
+        {
+          "title": "Paprika (2006)",
+          "url": "https://fs8.lol/films/1383-paprika-film-streaming-complet-vf.html",
+          "poster": "paprika.jpg",
+          "desc": "VF, HD"
+        }
+      ]
+    },
+    {
+      "user": "Zouny",
+      "items": [
+        {
+          "title": "Pulp Fiction",
+          "url": "https://xalaflix.in/movies/watch/pulp-fiction/1154",
+          "poster": "pulpfiction.jpg",
+          "desc": "VF, HD"
+        },
+        {
+          "title": "Whiplash",
+          "url": "https://xalaflix.in/movies/watch/whiplash/3256",
+          "poster": "wiplash.jpg",
+          "desc": "VF, HD"
+        },
+        {
+          "title": "Demon Slayer - La Fortresse de l'Infini",
+          "url": "https://flemmix.one/film-en-streaming/34295-fardd.html",
+          "poster": "demonslayer.jpg",
+          "desc": "VOST, HDSCR (film qualité cinéma, trop tot pour du HD)"
+        },
+        {
+          "title": "Chainsaw Man - ARC Reze",
+          "url": "https://flemmix.one/film-en-streaming/34814-chainsaw-man-le-film-larc-de-reze.html",
+          "poster": "chainsawman.jpg",
+          "desc": "VOST, HDSCR (film qualité cinéma, trop tot pour du HD)"
+        }
+      ]
+    }
+  ]
+}
