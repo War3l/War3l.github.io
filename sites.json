@@ -55,7 +55,7 @@
       "name": "RARBGTM",
       "url": "https://www2.rarbggo.to/",
       "desc": "TORRENT film, séries, émission",
-      "available": true,
+      "available": false,
       "logo": "rarbgtm.png"
     },
     {
