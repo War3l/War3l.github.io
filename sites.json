@@ -46,9 +46,9 @@
   "tv": [
     {
       "name": "WiTV",
-      "url": "https://witv.soccer/",
+      "url": "https://witv.website",
       "desc": "Chaînes TV payantes",
-      "available": false,
+      "available": true,
       "logo": "witv.png"
     },
     {
