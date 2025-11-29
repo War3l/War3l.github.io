@@ -84,6 +84,29 @@
         }
       ]
     },
+        {
+      "user": "Warel",
+      "items": [
+        {
+          "title": "Mentalist",
+          "url": "https://fs3.lol/s-tv/15550-the-mentalist-saison-1-streaming-complet-vf-vostfr.html",
+          "poster": "mentalist.jpg",
+          "desc": "VF HD"
+        },
+        {
+          "title": "Ça : Bienvenue à Derry",
+          "url": "https://fs3.lol/s-tv/15123157-a-bienvenue-derry-saison-1-2025.html",
+          "poster": "ca.jpg",
+          "desc": "VF, HD"
+        },
+        {
+          "title": "Pluribus",
+          "url": "https://fs3.lol/s-tv/15123287-pluribus-saison-1-2025.html",
+          "poster": "pluribus.jpg",
+          "desc": "VO, HD"
+        },
+      ]
+    },
     {
       "user": "Krepe",
       "items": [
