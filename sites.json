@@ -3,21 +3,21 @@
     {
       "name": "FrenchStream",
       "url": "https://fs8.lol",
-      "desc": "Series & vieux films",
+      "desc": "Séries et vieux films",
       "available": true,
       "logo": "frenchstream.png"
     },
     {
       "name": "Tosnov",
       "url": "https://tosnov.com/6ep04q5f/home/tosnov",
-      "desc": "Derniers films sortie box office HD",
+      "desc": "Derniers films sortie box office en HD",
       "available": true,
       "logo": "tosnov.png"
     },
     {
       "name": "Wiflix",
       "url": "https://flemmix.one",
-      "desc": "Films sortie cinéma, mauvaise qualité",
+      "desc": "Films sortie cinéma, qualité variable",
       "available": true,
       "logo": "wiflix.png"
     },
@@ -47,21 +47,21 @@
     {
       "name": "WiTV",
       "url": "https://witv.soccer/",
-      "desc": "Chaînes TV payante",
+      "desc": "Chaînes TV payantes",
       "available": false,
       "logo": "witv.png"
     },
     {
       "name": "RARBGTM",
       "url": "https://www2.rarbggo.to/",
-      "desc": "TORRENT film, séries, émission",
+      "desc": "TORRENT films, séries, émissions",
       "available": true,
       "logo": "rarbgtm.png"
     },
     {
       "name": "FTV",
       "url": "https://fstv.fun/",
-      "desc": "Chaîne TV payante",
+      "desc": "Chaînes TV payantes",
       "available": true,
       "logo": "frenchtv.png"
     }
@@ -84,14 +84,14 @@
         }
       ]
     },
-        {
+    {
       "user": "Warel",
       "items": [
         {
           "title": "Mentalist",
           "url": "https://fs3.lol/s-tv/15550-the-mentalist-saison-1-streaming-complet-vf-vostfr.html",
           "poster": "mentalist.jpg",
-          "desc": "VF HD"
+          "desc": "VF, HD"
         },
         {
           "title": "Ça : Bienvenue à Derry",
@@ -104,7 +104,7 @@
           "url": "https://fs3.lol/s-tv/15123287-pluribus-saison-1-2025.html",
           "poster": "pluribus.jpg",
           "desc": "VO, HD"
-        },
+        }
       ]
     },
     {
@@ -117,7 +117,7 @@
           "desc": "VOST, HD"
         },
         {
-          "title": "Dexter ",
+          "title": "Dexter",
           "url": "https://flickystream.ru/tv/1405",
           "poster": "https://war3l.github.io/dexter.jpg",
           "desc": "VOST, HDLight"
@@ -148,26 +148,26 @@
         {
           "title": "Whiplash",
           "url": "https://xalaflix.in/movies/watch/whiplash/3256",
-          "poster": "https://war3l.github.io/wiplash.jpg",
+          "poster": "https://war3l.github.io/whiplash.jpg",
           "desc": "VF, HD"
         },
         {
-          "title": "Demon Slayer - La Fortresse de l'Infini",
+          "title": "Demon Slayer - La Forteresse de l'Infini",
           "url": "https://flemmix.one/film-en-streaming/34295-fardd.html",
           "poster": "https://war3l.github.io/demonslayer.jpg",
-          "desc": "VOST, HDSCR (film qualité cinéma, trop tot pour du HD)"
+          "desc": "VOST, HDSCR (film qualité cinéma, trop tôt pour du HD)"
         },
         {
           "title": "Chainsaw Man - ARC Reze",
           "url": "https://flemmix.one/film-en-streaming/34814-chainsaw-man-le-film-larc-de-reze.html",
           "poster": "https://war3l.github.io/chainsawman.jpg",
-          "desc": "VOST, HDSCR (film qualité cinéma, trop tot pour du HD)"
+          "desc": "VOST, HDSCR (film qualité cinéma, trop tôt pour du HD)"
         },
         {
           "title": "Ready Player One",
           "url": "https://xalaflix.in/movies/watch/ready-player-one/806",
           "poster": "https://war3l.github.io/readyplayer.jpg",
-          "desc": "VF, HD4k"
+          "desc": "VF, HD4K"
         }
       ]
     }
