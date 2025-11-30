@@ -55,6 +55,13 @@
       "desc": "Films Netflix, Disney+, Canal+",
       "available": true,
       "logo": "https://war3l.github.io/coflix.png"
+    },
+    {
+      "name": "Zone Téléchargement",
+      "url": "https://www.zone-telechargement.irish",
+      "desc": "site d'OG",
+      "available": true,
+      "logo": "https://war3l.github.io/site.png"
     }
   ],
   "tv": [
