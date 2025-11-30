@@ -11,7 +11,7 @@
       "name": "Tosnov",
       "url": "https://tosnov.com/6ep04q5f/home/tosnov",
       "desc": "Derniers films sortie box office en HD",
-      "available": true,
+      "available": false,
       "logo": "tosnov.png"
     },
     {
@@ -76,7 +76,7 @@
       "name": "RARBGTM",
       "url": "https://www2.rarbggo.to/",
       "desc": "TORRENT films, séries, émissions",
-      "available": true,
+      "available": false,
       "logo": "rarbgtm.png"
     },
     {
