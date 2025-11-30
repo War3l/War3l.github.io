@@ -133,6 +133,12 @@
           "url": "https://fs8.lol/films/1383-paprika-film-streaming-complet-vf.html",
           "poster": "https://war3l.github.io/paprika.jpg",
           "desc": "VF, HD"
+        },
+        {
+          "title": "Sweetpea (2024)",
+          "url": "https://fs3.lol/s-tv/15118698-sweetpea-saison-1-2024.html",
+          "poster": "https://war3l.github.io/sweetpea.jpg",
+          "desc": "VO, HD"
         }
       ]
     },
@@ -168,6 +174,29 @@
           "url": "https://xalaflix.in/movies/watch/ready-player-one/806",
           "poster": "https://war3l.github.io/readyplayer.jpg",
           "desc": "VF, HD4K"
+        }
+      ]
+    },
+    {
+      "user": "KARA",
+      "items": [
+        {
+          "title": "Sweetpea (2024)",
+          "url": "https://fs3.lol/s-tv/15118698-sweetpea-saison-1-2024.html",
+          "poster": "https://war3l.github.io/sweetpea.jpg",
+          "desc": "VO, HD"
+        },
+        {
+          "title": "Pluribus",
+          "url": "https://fs3.lol/s-tv/15123287-pluribus-saison-1-2025.html",
+          "poster": "https://war3l.github.io/pluribus.jpg",
+          "desc": "VO, HD"
+        },
+        {
+          "title": "Suits",
+          "url": "https://fs3.lol/s-tv/9382-suits-saison-2-streaming-complet-vf-vostfr.html",
+          "poster": "https://war3l.github.io/suits.jpg",
+          "desc": "VF, HD"
         }
       ]
     }
