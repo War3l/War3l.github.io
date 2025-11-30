@@ -41,6 +41,20 @@
       "desc": "Anime, FilmAnime",
       "available": true,
       "logo": "voiranime.png"
+    },
+    {
+      "name": "Papa Du Stream",
+      "url": "https://papadustream.business",
+      "desc": "Series en tout genre",
+      "available": true,
+      "logo": "https://war3l.github.io/papa.png"
+    },
+    {
+      "name": "CoFlix",
+      "url": "https://coflix.foo",
+      "desc": "Films Netflix, Disney+, Canal+",
+      "available": true,
+      "logo": "https://war3l.github.io/coflix.png"
     }
   ],
   "tv": [
