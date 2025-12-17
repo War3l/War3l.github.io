@@ -23,7 +23,7 @@
     },
     {
       "name": "Xalaflix",
-      "url": "https://xalaflix.in",
+      "url": "https://xalaflix.men",
       "desc": "Films Netflix, Disney+, Canal+",
       "available": true,
       "logo": "xalaflix.png"
@@ -44,7 +44,7 @@
     },
     {
       "name": "Papa Du Stream",
-      "url": "https://papadustream.business",
+      "url": "https://papadustream.press",
       "desc": "Series en tout genre",
       "available": true,
       "logo": "https://war3l.github.io/papa.png"
