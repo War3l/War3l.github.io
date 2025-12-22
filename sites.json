@@ -2,7 +2,7 @@
   "films": [
     {
       "name": "FrenchStream",
-      "url": "https://fs3.lol",
+      "url": "https://fs2.lol",
       "desc": "Séries et vieux films",
       "available": true,
       "logo": "frenchstream.png"
